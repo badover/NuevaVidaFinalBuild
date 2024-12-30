@@ -361,7 +361,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -387,7 +387,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 44717,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2418,7 +2418,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 52339,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2444,7 +2444,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 91417,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -3098,7 +3098,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 99577,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3124,7 +3124,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 150247,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3789,7 +3789,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 158035,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3815,7 +3815,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 194255,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4386,7 +4386,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 202748,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4412,7 +4412,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 236452,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -4936,7 +4936,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 245048,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -4962,7 +4962,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 281520,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5497,7 +5497,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 290110,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5523,7 +5523,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 352733,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6324,7 +6324,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 360849,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6350,7 +6350,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 397322,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -6876,7 +6876,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 405349,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -6902,7 +6902,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 439744,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7417,7 +7417,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 448342,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7443,7 +7443,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 483556,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -7960,7 +7960,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 492194,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -7986,7 +7986,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 526212,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8492,7 +8492,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 534816,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8518,7 +8518,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 572053,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -9064,7 +9064,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 580360,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9090,7 +9090,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 618624,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -9650,7 +9650,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 626933,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9676,7 +9676,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 660977,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -10186,7 +10186,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 669548,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10212,7 +10212,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 755331,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -11128,7 +11128,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 763658,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11154,7 +11154,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 800043,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11681,7 +11681,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 808080,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -11707,7 +11707,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 841560,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12232,7 +12232,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 850230,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12258,7 +12258,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 887990,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -12855,7 +12855,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 896356,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -12881,7 +12881,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 934164,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -13453,7 +13453,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 942814,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -13479,7 +13479,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1000231,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14275,7 +14275,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1008887,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14301,7 +14301,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1098796,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15295,7 +15295,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1107469,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15321,7 +15321,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1188555,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16214,7 +16214,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1196978,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16240,7 +16240,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1250745,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -16959,7 +16959,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1259602,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -16985,7 +16985,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1295069,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -17511,7 +17511,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1303593,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -17537,7 +17537,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1338589,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -18105,7 +18105,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1347649,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18131,7 +18131,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1389392,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -18721,7 +18721,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1398442,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -18747,7 +18747,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1432399,
       "PayloadLength": 59,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\Nueva",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\69602\\OneDr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -19292,7 +19292,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1441526,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "C:\\Users\\69602\\Nueva-Vida-Game",
+      "PayloadDebugContentSnippet": "C:\\Users\\69602\\OneDrive\\Deskto",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -20929,7 +20929,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\Users\\69602\\Nueva-Vida-Game\\Neuva Vida Game\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.54f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\Users\\69602\\OneDrive\\Desktop\\NuevaVidaFinal\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21215,6 +21215,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "C:/Users/69602/Nueva-Vida-Game/Neuva Vida Game/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "C:/Users/69602/OneDrive/Desktop/NuevaVidaFinal/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Neuva Vida Game.sln"
+    "dotnet.defaultSolution": "NuevaVidaFinal.sln"
 }
